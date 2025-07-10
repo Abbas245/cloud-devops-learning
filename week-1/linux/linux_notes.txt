@@ -1,0 +1,9 @@
+# Linux Notes - Day 1
+
+Commands I learned today:
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- nano
