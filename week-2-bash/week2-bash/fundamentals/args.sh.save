@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Script name (this file)        : $0"
+echo "First argument                  : $1"
+echo "Second argument                 : $2"
+echo "All arguments together          : $@"
+echo "Number of arguments given       : $#"
+
+
