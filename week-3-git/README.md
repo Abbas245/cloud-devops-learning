@@ -10,3 +10,6 @@ Outcome:
 
 ## Note
 These subfolders are standalone Git practice repositories used during Week 3 learning (each contains its own .git history).
+
+## Note
+These subfolders are standalone Git practice repositories used during Week 3 learning (each contains its own .git history).
